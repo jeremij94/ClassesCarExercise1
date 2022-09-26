@@ -1,0 +1,15 @@
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/bin/Debug/net6.0/ClassesCarExercise1
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/bin/Debug/net6.0/ClassesCarExercise1.deps.json
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/bin/Debug/net6.0/ClassesCarExercise1.runtimeconfig.json
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/bin/Debug/net6.0/ClassesCarExercise1.dll
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/bin/Debug/net6.0/ClassesCarExercise1.pdb
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.csproj.AssemblyReference.cache
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.AssemblyInfoInputs.cache
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.AssemblyInfo.cs
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.csproj.CoreCompileInputs.cache
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.dll
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/refint/ClassesCarExercise1.dll
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.pdb
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ClassesCarExercise1.genruntimeconfig.cache
+/Users/jeremijackson/Desktop/Repos/ClassesCarExercise1/ClassesCarExercise1/obj/Debug/net6.0/ref/ClassesCarExercise1.dll
